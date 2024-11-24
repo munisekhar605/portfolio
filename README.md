@@ -1,4 +1,4 @@
-# Munisekhar Udavala - Full-Stack Developer Portfolio
+# Munisekhar Udavalapati - Full-Stack Developer Portfolio
 
 Welcome to my personal portfolio! I'm **Munisekhar Udavala**, a passionate and innovative Full-Stack Developer specializing in **MERN Stack** and **Node.js**. I am committed to creating modern, scalable, and high-performance web applications that leave a lasting impact.
 
@@ -39,10 +39,10 @@ Here are a few projects I’ve built that demonstrate my skills in building impa
 ### 🎯 **Let’s Connect!**
 I am actively seeking new job opportunities where I can leverage my skills and passion for web development. If you're looking for a skilled Full-Stack Developer to join your team, let's build something amazing together!
 
-- 📫 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- 🐙 **GitHub**: [github.com/your-profile](https://github.com/your-profile)
-- 📄 **Resume**: [yourresume-link.com](https://yourresume-link.com)
+- 📫 **Email**: [munisekhar605@gmail.com](munisekhar605@gmail.com)
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/munisekhar605/](https://www.linkedin.com/in/munisekhar605/)
+- 🐙 **GitHub**: [https://github.com/munisekhar605](https://github.com/munisekhar605)
+- 📄 **Resume**: [https://drive.google.com/file/d/1ajD45AAdcrUb6GKtb7YmXGX_O6-5Pw5D/view](https://drive.google.com/file/d/1ajD45AAdcrUb6GKtb7YmXGX_O6-5Pw5D/view)
 
 ---
 
